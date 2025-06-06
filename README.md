@@ -121,8 +121,6 @@ powervision/
 ## 🤝 Contributors
 
 - 👩‍🔬 **Sree Bhargavi Balija** — Federated Learning, Privacy, and Multimodal Fusion  
-- 👨‍💻 [Add Collaborator Name] — Backend Optimization and Deployment
-
 ---
 
 ## 📄 License
