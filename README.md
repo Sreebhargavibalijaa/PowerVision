@@ -26,12 +26,12 @@
 
 ```mermaid
 graph TD
-    A[📷 X-ray (CNN + DP)] --> F[🎯 DP Embedding]
-    B[📊 Vitals (MLP + DP)] --> F
-    C[📝 Clinical Notes (Transformer + DP)] --> F
-    F --> G[🔐 Fused Representation]
-    G --> H[🧠 Federated PowerVision Model]
-    H --> I[🔍 Explainability Module (NAMs)]
+    A[X-ray (CNN + DP)] --> F[DP Embedding]
+    B[Vitals (MLP + DP)] --> F
+    C[Clinical Notes (Transformer + DP)] --> F
+    F --> G[Fused Representation]
+    G --> H[Federated PowerVision Model]
+    H --> I[Explainability Module (NAMs)]
 ```
 
 ---
