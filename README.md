@@ -23,7 +23,6 @@
 ---
 
 ## 🧩 System Architecture
-
 ```mermaid
 graph TD
     A[X-ray (CNN + DP)] --> F[DP Embedding]
@@ -33,9 +32,6 @@ graph TD
     G --> H[Federated PowerVision Model]
     H --> I[Explainability Module (NAMs)]
 ```
-
----
-
 ## ⚙️ Installation
 
 ```bash
